@@ -1,0 +1,1 @@
+# nornir-automation-simple-get-facts-network-devices
